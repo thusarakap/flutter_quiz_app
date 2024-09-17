@@ -35,8 +35,8 @@ class _QuizState extends State<Quiz> {
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
               colors: [
-                Colors.blue,
-                Colors.purple,
+                Color.fromARGB(255, 51, 5, 158),
+                Color.fromARGB(255, 20, 0, 131),
               ],
             ),
           ),

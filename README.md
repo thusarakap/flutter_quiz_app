@@ -1,2 +1,3 @@
-# quiz-app
+# Flutter Quiz App
+Built using flutter
  
